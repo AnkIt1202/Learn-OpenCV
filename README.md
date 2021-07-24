@@ -12,9 +12,13 @@ It supports a wide variety of programming languages such as C++, Python, Java et
 The Python Notebook covers the following chapters: 
 
 **Chapter 1**: How to read, write, and display Images & Videos
+
 **Chapter 2**: Basic Functions
+
 **Chapter 3**: Shapes and Texts
+
 **Chapter 4**: Joining Images
+
 **Chapter 5**: Mini-Projects -
 
   - Face Detection on Images, Videos, & in Real-time
